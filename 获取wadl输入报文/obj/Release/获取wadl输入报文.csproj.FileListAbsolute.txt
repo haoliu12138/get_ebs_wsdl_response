@@ -1,0 +1,11 @@
+C:\Users\23926\Documents\Visual Studio 2013\Projects\获取wadl输入报文\获取wadl输入报文\bin\Release\获取wadl输入报文.exe.config
+C:\Users\23926\Documents\Visual Studio 2013\Projects\获取wadl输入报文\获取wadl输入报文\bin\Release\获取wadl输入报文.exe
+C:\Users\23926\Documents\Visual Studio 2013\Projects\获取wadl输入报文\获取wadl输入报文\bin\Release\获取wadl输入报文.pdb
+C:\Users\23926\Documents\Visual Studio 2013\Projects\获取wadl输入报文\获取wadl输入报文\bin\Release\Newtonsoft.Json.dll
+C:\Users\23926\Documents\Visual Studio 2013\Projects\获取wadl输入报文\获取wadl输入报文\bin\Release\Newtonsoft.Json.pdb
+C:\Users\23926\Documents\Visual Studio 2013\Projects\获取wadl输入报文\获取wadl输入报文\bin\Release\Newtonsoft.Json.xml
+C:\Users\23926\Documents\Visual Studio 2013\Projects\获取wadl输入报文\获取wadl输入报文\obj\Release\获取wadl输入报文.Form1.resources
+C:\Users\23926\Documents\Visual Studio 2013\Projects\获取wadl输入报文\获取wadl输入报文\obj\Release\获取wadl输入报文.Properties.Resources.resources
+C:\Users\23926\Documents\Visual Studio 2013\Projects\获取wadl输入报文\获取wadl输入报文\obj\Release\获取wadl输入报文.csproj.GenerateResource.Cache
+C:\Users\23926\Documents\Visual Studio 2013\Projects\获取wadl输入报文\获取wadl输入报文\obj\Release\获取wadl输入报文.exe
+C:\Users\23926\Documents\Visual Studio 2013\Projects\获取wadl输入报文\获取wadl输入报文\obj\Release\获取wadl输入报文.pdb
