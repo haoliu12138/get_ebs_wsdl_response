@@ -1,0 +1,2 @@
+# get_ebs_wsdl_response
+通过http请求访问ebs服务器上生成的xsd文件来生成REST接口的报文
